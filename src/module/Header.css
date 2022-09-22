@@ -1,0 +1,11 @@
+header {
+    border-radius: 10px;
+    background-color: deepskyblue;
+}
+
+header img {
+    margin: 15px 15px auto 15px;
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+}
